@@ -1,5 +1,5 @@
 import sys
-import Calculater01
+from Calculater01 import Calculater01
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
 if __name__ == '__main__':
